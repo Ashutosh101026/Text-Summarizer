@@ -60,7 +60,7 @@ The notebook configuration uses six training epochs and a batch size of eight pe
 Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Ashutosh101026/Text-Summarizer
 cd text-summarizer
 ```
 
